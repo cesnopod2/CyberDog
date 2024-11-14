@@ -1,0 +1,8 @@
+imutils==0.5.4
+ipywidgets==8.1.5
+numpy==1.21.6
+opencv_python==4.10.0.84
+Pillow==9.5.0
+Pillow==11.0.0
+pyrealsense2==2.55.1.6486
+traitlets==5.14.3
